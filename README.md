@@ -10,4 +10,5 @@
  
 - Kaggle Notebook: https://www.kaggle.com/code/pratikktiwari/mlops-fine-tuning-distilbert
 - Hugging Face model: https://huggingface.co/pratikktiwari/fine-tuned-distilbert-goodreads-genres
-- W&B dashboard: https://api.wandb.ai/links/pratikktiwari-na/95t69xj4
+- W&B Dashboard: https://wandb.ai/pratikktiwari-na/MLOps-Fine-Tuning-Distilbert-Goodreeads-Genres
+- W&B report: https://api.wandb.ai/links/pratikktiwari-na/95t69xj4
